@@ -31,7 +31,7 @@ class Timer extends Component {
     const { timer } = this.props;
     return (
       <div>
-      Tempo restante:
+        Tempo restante:
         { timer }
       </div>
     );

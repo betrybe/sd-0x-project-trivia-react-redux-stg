@@ -241,7 +241,7 @@ class Questions extends Component {
             </button>);
         })}
         <div>
-        Tempo restante:
+          Tempo restante:
           { timer }
         </div>
         <div>

@@ -16,7 +16,7 @@ class Header extends Component {
       <div>
         <header>
           <img
-            // data-testid="header-profile-picture"
+            data-testid="header-profile-picture"
             src={ this.getAvatar() }
             alt="Imagem gravatar"
           />

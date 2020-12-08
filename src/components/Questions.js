@@ -217,7 +217,7 @@ class Questions extends Component {
             return (
               <button
                 type="button"
-                // data-testid="correct-answer"
+                data-testid="correct-answer"
                 key={ answer }
                 id="correct-answer"
                 onClick={ this.addClass }
